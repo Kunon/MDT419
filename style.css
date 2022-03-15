@@ -1,0 +1,212 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: cursive;
+    box-sizing: border-box;
+    font-style: italic;
+}
+
+.grid-nav{
+    height: 100%;
+    width: 100%;
+    background-color: #948420;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 55px;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+.logo{
+    color: black;
+    font-size: 45px;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 25px;
+}
+
+nav ul li a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+nav ul li a:hover{
+    color: #f9004d;
+    transition: .4s;
+}
+
+.content{
+   text-align: center;
+   background-color: #948420;
+}
+
+h1{
+    color: white;
+    margin: 20px 0px 20px;
+    font-size: 75px;   
+}
+
+h2{
+   color: white;
+   font-size: 25px;
+   margin-bottom: 50px;
+}
+
+h3{
+    color: white;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+
+.about{
+    width: 100%;
+    padding: 100px 0px;
+    background-color: #191919;
+}
+
+.about img{
+  height: auto;
+  width: 400px;
+}
+
+.about-text{
+    width: 550px;
+    
+}
+
+.main{
+    width: 1250px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+img{
+    border-radius: 40%;
+   
+}
+
+.about-text h2{
+    color: white;
+    font-size: 30px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+.about-text h5{
+    color: white;
+    letter-spacing: 2px;
+    font-size: 20px;
+    margin-bottom: 25px;
+    text-transform: capitalize;
+}
+
+.mdt419page{
+    width: 100%;
+    padding: 125px 0px;
+    background-color: #948420;
+}
+
+.mdt419-text{
+    text-align: center;  
+     
+}
+
+nav2 ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 25px;
+}
+
+nav2 ul li a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+nav2 ul li a:hover{
+    color: black;
+    transition: .4s;
+}
+
+.contactpage{
+    width: 100%;
+    padding: 125px 0px;
+    background-color: black;
+}
+
+.contact-text{
+    text-align: center;
+   
+}
+
+.contactpage2{
+    width: 100%;
+    padding: 25px 0px;
+    background-color: #948420;
+}
+
+.content2{
+    text-align: center;
+}
+
+.imgsize{
+
+    width: 70px;
+    height: 80px;
+    margin: 20px 20px 20px;
+}
+
+.imgsizeqr{
+    width: 300px;
+    border-radius: 0%;  
+}
+
+.videoproject{
+    max-width: 100%;
+    padding: 25px 0px;
+    border-radius: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
